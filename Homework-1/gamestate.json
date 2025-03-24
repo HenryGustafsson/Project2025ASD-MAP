@@ -1,0 +1,1339 @@
+{
+    "gameHistory": [
+        [
+            {
+                "id": 1,
+                "points": 5
+            },
+            {
+                "id": 2,
+                "points": 2
+            }
+        ],
+        [
+            {
+                "id": 4,
+                "points": 31
+            },
+            {
+                "id": 3,
+                "points": 13
+            }
+        ],
+        [
+            {
+                "id": 5,
+                "points": 5
+            },
+            {
+                "id": 6,
+                "points": 4
+            }
+        ]
+    ],
+    "teamsStorage": {
+        "1": {
+            "id": 1,
+            "points": 5
+        },
+        "2": {
+            "id": 2,
+            "points": 2
+        },
+        "3": {
+            "id": 3,
+            "points": 13
+        },
+        "4": {
+            "id": 4,
+            "points": 31
+        },
+        "5": {
+            "id": 5,
+            "points": 5
+        },
+        "6": {
+            "id": 6,
+            "points": 4
+        }
+    },
+    "cardIdentifierCounter": 75,
+    "teamIdentifierCounter": 6,
+    "usedCards": [
+        {
+            "id": 1,
+            "words": [
+                {
+                    "word": "start"
+                },
+                {
+                    "word": "pin"
+                },
+                {
+                    "word": "curtain"
+                },
+                {
+                    "word": "sidewalk"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "words": [
+                {
+                    "word": "wax"
+                },
+                {
+                    "word": "peace"
+                },
+                {
+                    "word": "design"
+                },
+                {
+                    "word": "grain"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "words": [
+                {
+                    "word": "rings"
+                },
+                {
+                    "word": "soda"
+                },
+                {
+                    "word": "lock"
+                },
+                {
+                    "word": "smile"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "words": [
+                {
+                    "word": "end"
+                },
+                {
+                    "word": "surprise"
+                },
+                {
+                    "word": "afterthought"
+                },
+                {
+                    "word": "war"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "words": [
+                {
+                    "word": "anger"
+                },
+                {
+                    "word": "vegetable"
+                },
+                {
+                    "word": "pump"
+                },
+                {
+                    "word": "machine"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "words": [
+                {
+                    "word": "touch"
+                },
+                {
+                    "word": "rifle"
+                },
+                {
+                    "word": "adjustment"
+                },
+                {
+                    "word": "grandfather"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "words": [
+                {
+                    "word": "sweater"
+                },
+                {
+                    "word": "playground"
+                },
+                {
+                    "word": "glove"
+                },
+                {
+                    "word": "question"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "words": [
+                {
+                    "word": "thunder"
+                },
+                {
+                    "word": "history"
+                },
+                {
+                    "word": "mask"
+                },
+                {
+                    "word": "impulse"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "words": [
+                {
+                    "word": "scene"
+                },
+                {
+                    "word": "rabbits"
+                },
+                {
+                    "word": "motion"
+                },
+                {
+                    "word": "basket"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "words": [
+                {
+                    "word": "plastic"
+                },
+                {
+                    "word": "account"
+                },
+                {
+                    "word": "thought"
+                },
+                {
+                    "word": "behavior"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "words": [
+                {
+                    "word": "letter"
+                },
+                {
+                    "word": "boat"
+                },
+                {
+                    "word": "corn"
+                },
+                {
+                    "word": "car"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "words": [
+                {
+                    "word": "milk"
+                },
+                {
+                    "word": "van"
+                },
+                {
+                    "word": "value"
+                },
+                {
+                    "word": "thrill"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "words": [
+                {
+                    "word": "border"
+                },
+                {
+                    "word": "eye"
+                },
+                {
+                    "word": "reason"
+                },
+                {
+                    "word": "daughter"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "words": [
+                {
+                    "word": "mom"
+                },
+                {
+                    "word": "basketball"
+                },
+                {
+                    "word": "protest"
+                },
+                {
+                    "word": "fact"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "words": [
+                {
+                    "word": "water"
+                },
+                {
+                    "word": "development"
+                },
+                {
+                    "word": "chance"
+                },
+                {
+                    "word": "knife"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "words": [
+                {
+                    "word": "religion"
+                },
+                {
+                    "word": "shoes"
+                },
+                {
+                    "word": "shake"
+                },
+                {
+                    "word": "fold"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "words": [
+                {
+                    "word": "stranger"
+                },
+                {
+                    "word": "table"
+                },
+                {
+                    "word": "force"
+                },
+                {
+                    "word": "shock"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "words": [
+                {
+                    "word": "earthquake"
+                },
+                {
+                    "word": "army"
+                },
+                {
+                    "word": "pest"
+                },
+                {
+                    "word": "party"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "words": [
+                {
+                    "word": "treatment"
+                },
+                {
+                    "word": "spade"
+                },
+                {
+                    "word": "humor"
+                },
+                {
+                    "word": "mailbox"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "words": [
+                {
+                    "word": "skirt"
+                },
+                {
+                    "word": "crowd"
+                },
+                {
+                    "word": "grass"
+                },
+                {
+                    "word": "metal"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "words": [
+                {
+                    "word": "hole"
+                },
+                {
+                    "word": "push"
+                },
+                {
+                    "word": "vest"
+                },
+                {
+                    "word": "crack"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "words": [
+                {
+                    "word": "gate"
+                },
+                {
+                    "word": "silver"
+                },
+                {
+                    "word": "turkey"
+                },
+                {
+                    "word": "kick"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "words": [
+                {
+                    "word": "direction"
+                },
+                {
+                    "word": "base"
+                },
+                {
+                    "word": "popcorn"
+                },
+                {
+                    "word": "bucket"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "words": [
+                {
+                    "word": "paper"
+                },
+                {
+                    "word": "crow"
+                },
+                {
+                    "word": "name"
+                },
+                {
+                    "word": "sock"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "words": [
+                {
+                    "word": "seed"
+                },
+                {
+                    "word": "trip"
+                },
+                {
+                    "word": "seat"
+                },
+                {
+                    "word": "instrument"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "words": [
+                {
+                    "word": "toothbrush"
+                },
+                {
+                    "word": "edge"
+                },
+                {
+                    "word": "cup"
+                },
+                {
+                    "word": "stage"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "words": [
+                {
+                    "word": "toy"
+                },
+                {
+                    "word": "camera"
+                },
+                {
+                    "word": "trail"
+                },
+                {
+                    "word": "profit"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "words": [
+                {
+                    "word": "can"
+                },
+                {
+                    "word": "brake"
+                },
+                {
+                    "word": "decision"
+                },
+                {
+                    "word": "way"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "words": [
+                {
+                    "word": "rhythm"
+                },
+                {
+                    "word": "fear"
+                },
+                {
+                    "word": "pot"
+                },
+                {
+                    "word": "judge"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "words": [
+                {
+                    "word": "ducks"
+                },
+                {
+                    "word": "square"
+                },
+                {
+                    "word": "ladybug"
+                },
+                {
+                    "word": "snakes"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "words": [
+                {
+                    "word": "dime"
+                },
+                {
+                    "word": "story"
+                },
+                {
+                    "word": "steam"
+                },
+                {
+                    "word": "destruction"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "words": [
+                {
+                    "word": "pen"
+                },
+                {
+                    "word": "substance"
+                },
+                {
+                    "word": "wool"
+                },
+                {
+                    "word": "brass"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "words": [
+                {
+                    "word": "education"
+                },
+                {
+                    "word": "moon"
+                },
+                {
+                    "word": "dogs"
+                },
+                {
+                    "word": "wrist"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "words": [
+                {
+                    "word": "straw"
+                },
+                {
+                    "word": "drawer"
+                },
+                {
+                    "word": "canvas"
+                },
+                {
+                    "word": "plant"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "words": [
+                {
+                    "word": "knee"
+                },
+                {
+                    "word": "mark"
+                },
+                {
+                    "word": "balance"
+                },
+                {
+                    "word": "group"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "words": [
+                {
+                    "word": "uncle"
+                },
+                {
+                    "word": "truck"
+                },
+                {
+                    "word": "office"
+                },
+                {
+                    "word": "rate"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "words": [
+                {
+                    "word": "camp"
+                },
+                {
+                    "word": "power"
+                },
+                {
+                    "word": "respect"
+                },
+                {
+                    "word": "pan"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "words": [
+                {
+                    "word": "number"
+                },
+                {
+                    "word": "trains"
+                },
+                {
+                    "word": "bag"
+                },
+                {
+                    "word": "star"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "words": [
+                {
+                    "word": "eggnog"
+                },
+                {
+                    "word": "needle"
+                },
+                {
+                    "word": "skate"
+                },
+                {
+                    "word": "tramp"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "words": [
+                {
+                    "word": "nerve"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "space"
+                },
+                {
+                    "word": "language"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "words": [
+                {
+                    "word": "snails"
+                },
+                {
+                    "word": "experience"
+                },
+                {
+                    "word": "stem"
+                },
+                {
+                    "word": "plot"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "words": [
+                {
+                    "word": "twig"
+                },
+                {
+                    "word": "authority"
+                },
+                {
+                    "word": "jellyfish"
+                },
+                {
+                    "word": "brother"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "words": [
+                {
+                    "word": "laborer"
+                },
+                {
+                    "word": "wine"
+                },
+                {
+                    "word": "berry"
+                },
+                {
+                    "word": "boundary"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "words": [
+                {
+                    "word": "friction"
+                },
+                {
+                    "word": "voice"
+                },
+                {
+                    "word": "part"
+                },
+                {
+                    "word": "governor"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "words": [
+                {
+                    "word": "discussion"
+                },
+                {
+                    "word": "badge"
+                },
+                {
+                    "word": "guide"
+                },
+                {
+                    "word": "cast"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "words": [
+                {
+                    "word": "belief"
+                },
+                {
+                    "word": "key"
+                },
+                {
+                    "word": "discovery"
+                },
+                {
+                    "word": "credit"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "words": [
+                {
+                    "word": "low"
+                },
+                {
+                    "word": "color"
+                },
+                {
+                    "word": "suit"
+                },
+                {
+                    "word": "ants"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "words": [
+                {
+                    "word": "wilderness"
+                },
+                {
+                    "word": "card"
+                },
+                {
+                    "word": "flesh"
+                },
+                {
+                    "word": "pocket"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "words": [
+                {
+                    "word": "stream"
+                },
+                {
+                    "word": "jewel"
+                },
+                {
+                    "word": "porter"
+                },
+                {
+                    "word": "fall"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "words": [
+                {
+                    "word": "images"
+                },
+                {
+                    "word": "swing"
+                },
+                {
+                    "word": "calendar"
+                },
+                {
+                    "word": "achiever"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "words": [
+                {
+                    "word": "hair"
+                },
+                {
+                    "word": "sea"
+                },
+                {
+                    "word": "zipper"
+                },
+                {
+                    "word": "committee"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "words": [
+                {
+                    "word": "basin"
+                },
+                {
+                    "word": "year"
+                },
+                {
+                    "word": "toad"
+                },
+                {
+                    "word": "creator"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "words": [
+                {
+                    "word": "things"
+                },
+                {
+                    "word": "angle"
+                },
+                {
+                    "word": "school"
+                },
+                {
+                    "word": "tomatoes"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "words": [
+                {
+                    "word": "wash"
+                },
+                {
+                    "word": "stone"
+                },
+                {
+                    "word": "downtown"
+                },
+                {
+                    "word": "sun"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "words": [
+                {
+                    "word": "cable"
+                },
+                {
+                    "word": "friend"
+                },
+                {
+                    "word": "mint"
+                },
+                {
+                    "word": "fireman"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "words": [
+                {
+                    "word": "flight"
+                },
+                {
+                    "word": "bait"
+                },
+                {
+                    "word": "dirt"
+                },
+                {
+                    "word": "rainstorm"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "words": [
+                {
+                    "word": "art"
+                },
+                {
+                    "word": "loaf"
+                },
+                {
+                    "word": "smell"
+                },
+                {
+                    "word": "quiet"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "words": [
+                {
+                    "word": "memory"
+                },
+                {
+                    "word": "spy"
+                },
+                {
+                    "word": "air"
+                },
+                {
+                    "word": "books"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "words": [
+                {
+                    "word": "tray"
+                },
+                {
+                    "word": "apparel"
+                },
+                {
+                    "word": "coat"
+                },
+                {
+                    "word": "hands"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "words": [
+                {
+                    "word": "agreement"
+                },
+                {
+                    "word": "sort"
+                },
+                {
+                    "word": "veil"
+                },
+                {
+                    "word": "debt"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "words": [
+                {
+                    "word": "aunt"
+                },
+                {
+                    "word": "receipt"
+                },
+                {
+                    "word": "error"
+                },
+                {
+                    "word": "thing"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "words": [
+                {
+                    "word": "addition"
+                },
+                {
+                    "word": "sticks"
+                },
+                {
+                    "word": "trees"
+                },
+                {
+                    "word": "vein"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "words": [
+                {
+                    "word": "root"
+                },
+                {
+                    "word": "invention"
+                },
+                {
+                    "word": "railway"
+                },
+                {
+                    "word": "pigs"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "words": [
+                {
+                    "word": "field"
+                },
+                {
+                    "word": "side"
+                },
+                {
+                    "word": "winter"
+                },
+                {
+                    "word": "match"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "words": [
+                {
+                    "word": "amusement"
+                },
+                {
+                    "word": "home"
+                },
+                {
+                    "word": "marble"
+                },
+                {
+                    "word": "representative"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "words": [
+                {
+                    "word": "chess"
+                },
+                {
+                    "word": "honey"
+                },
+                {
+                    "word": "mice"
+                },
+                {
+                    "word": "request"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "words": [
+                {
+                    "word": "steel"
+                },
+                {
+                    "word": "women"
+                },
+                {
+                    "word": "ticket"
+                },
+                {
+                    "word": "structure"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "words": [
+                {
+                    "word": "alarm"
+                },
+                {
+                    "word": "mouth"
+                },
+                {
+                    "word": "zebra"
+                },
+                {
+                    "word": "step"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "words": [
+                {
+                    "word": "burst"
+                },
+                {
+                    "word": "comparison"
+                },
+                {
+                    "word": "curve"
+                },
+                {
+                    "word": "notebook"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "words": [
+                {
+                    "word": "cobweb"
+                },
+                {
+                    "word": "locket"
+                },
+                {
+                    "word": "trick"
+                },
+                {
+                    "word": "income"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "words": [
+                {
+                    "word": "eyes"
+                },
+                {
+                    "word": "note"
+                },
+                {
+                    "word": "son"
+                },
+                {
+                    "word": "spot"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "words": [
+                {
+                    "word": "earth"
+                },
+                {
+                    "word": "whistle"
+                },
+                {
+                    "word": "grade"
+                },
+                {
+                    "word": "glass"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "words": [
+                {
+                    "word": "salt"
+                },
+                {
+                    "word": "mine"
+                },
+                {
+                    "word": "minute"
+                },
+                {
+                    "word": "toys"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "words": [
+                {
+                    "word": "dad"
+                },
+                {
+                    "word": "houses"
+                },
+                {
+                    "word": "jar"
+                },
+                {
+                    "word": "spiders"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "words": [
+                {
+                    "word": "skin"
+                },
+                {
+                    "word": "sponge"
+                },
+                {
+                    "word": "attack"
+                },
+                {
+                    "word": "limit"
+                }
+            ]
+        }
+    ]
+}

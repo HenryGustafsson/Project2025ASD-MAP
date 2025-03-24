@@ -9,4 +9,9 @@ class IdentifierFactory {
     fun uniqueIdentifier(): Identifier {
         return ++counter
     }
+    fun getCounter() = counter
+
+    fun setCounter(value: Int) {
+        counter = value
+    }
 }

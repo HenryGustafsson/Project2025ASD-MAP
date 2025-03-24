@@ -9,7 +9,8 @@ fun properties(key: String) = project.findProperty(key).toString()
 plugins {
     java
     val kotlinVersion = "1.7.10"
-    id("org.jetbrains.kotlin.jvm") version kotlinVersion apply false
+    kotlin("jvm") version kotlinVersion apply false
+    kotlin("plugin.serialization") version kotlinVersion apply false
     id("org.jetbrains.kotlin.multiplatform") version kotlinVersion apply false
     id("org.springframework.boot") version "2.7.3" apply false
     id("io.spring.dependency-management") version "1.0.13.RELEASE" apply false
@@ -82,6 +83,7 @@ configure(subprojects.filter { server in it.name || "utils" in it.name }) {
     apply {
         plugin("java")
         plugin("kotlin")
+        plugin("org.jetbrains.kotlin.plugin.serialization")
     }
 
     dependencies {
@@ -109,6 +111,7 @@ configure(subprojects.filter { server in it.name }) {
         implementation(project(":common"))
         implementation(project(":utils"))
 
+        implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0")
         implementation("org.springframework.boot:spring-boot-starter-web")
         implementation("org.jetbrains.kotlin:kotlin-reflect:1.7.10")
         implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.14.1")
