@@ -13,5 +13,5 @@ class CardResource(val service: CardService) {
 
     @CrossOrigin
     @GetMapping("/amount")
-    fun getCardsAmount(): Int = CardService.cardsAmount
+    fun getCardsAmount(): Int = CardService.getCardsAmount()
 }

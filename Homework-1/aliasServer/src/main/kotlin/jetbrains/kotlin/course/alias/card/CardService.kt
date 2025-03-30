@@ -6,7 +6,6 @@ import jetbrains.kotlin.course.alias.util.words
 import org.springframework.stereotype.Service
 import kotlinx.serialization.Serializable
 
-
 @Serializable
 data class Word(val word: String)
 
@@ -17,10 +16,12 @@ data class Card(val id: Identifier, val words: List<Word>)
 class CardService {
     private val identifierFactory = IdentifierFactory()
     companion object {
-        const val WORDS_IN_CARD = 4
-        val cardsAmount = words.size / WORDS_IN_CARD
+        private const val WORDS_IN_CARD = 4
+        private val cardsAmount = words.size / WORDS_IN_CARD
+
+        fun getCardsAmount(): Int = cardsAmount
     }
-    private var cards: List<Card> = generateCards()
+    private val cards: MutableList<Card> = generateCards().toMutableList()
 
     private fun List<String>.toWords(): List<Word> = this.map {Word(it)}
 
@@ -38,7 +39,8 @@ class CardService {
     fun getCards(): List<Card> = cards
 
     fun setCards(newCards: List<Card>) {
-        cards = newCards
+        cards.clear()
+        cards.addAll(newCards)
     }
 
     fun getIdentifierCounter(): Int = identifierFactory.getCounter()
